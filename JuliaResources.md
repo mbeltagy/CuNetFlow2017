@@ -1,4 +1,4 @@
-#Julia Resources 
+# Julia Resources 
 
 * [David Sanders introduction to Julia](https://www.youtube.com/watch?v=puMIBYthsjQ) and [repository](https://github.com/dpsanders/julia_towards_1.0)
 * [Rosetta code tasks that have been implemented](http://rosettacode.org/wiki/Category:Julia) this great if you are familiar with how an algorithm should look like in one language and want to see the `julia` implementation of it. 
